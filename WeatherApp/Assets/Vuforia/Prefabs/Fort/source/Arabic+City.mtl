@@ -1,0 +1,58 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl LoamWalls0045_4_S_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.694118 0.631373 0.462745
+Ks 0.330000 0.330000 0.330000
+map_Kd Arabic+City/LoamWalls0045_4_S_1_.jpg
+
+newmtl LoamWalls0014_S_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.580392 0.525490 0.376471
+Ks 0.330000 0.330000 0.330000
+map_Kd Arabic+City/LoamWalls0014_S_1_.jpg
+
+newmtl PlanksOld0002_5_S_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.219608 0.192157 0.176471
+Ks 0.330000 0.330000 0.330000
+map_Kd Arabic+City/PlanksOld0002_5_S_1_.jpg
+
+newmtl PlanksNew0037_17_S_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.309804 0.270588 0.247059
+Ks 0.330000 0.330000 0.330000
+map_Kd Arabic+City/PlanksNew0037_17_S_1_.jpg
+
+newmtl Fencing_Lattice_Natural
+Ka 0.000000 0.000000 0.000000
+Kd 0.309804 0.270588 0.247059
+Ks 0.330000 0.330000 0.330000
+map_Kd Arabic+City/Fencing_Lattice_Natural.png
+
+newmtl LoamWalls0012_2_S_1_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.654902 0.603922 0.443137
+Ks 0.330000 0.330000 0.330000
+map_Kd Arabic+City/LoamWalls0012_2_S_1_1.jpg
+
+newmtl LoamWalls0029_S_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.592157 0.541176 0.396078
+Ks 0.330000 0.330000 0.330000
+map_Kd Arabic+City/LoamWalls0029_S_1_.jpg
+
+newmtl BrickOldSharp0184_1_S_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.458824 0.329412
+Ks 0.330000 0.330000 0.330000
+map_Kd Arabic+City/BrickOldSharp0184_1_S_1_.jpg
+
+newmtl dubai_desert_aerial_view_3230306
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.458824 0.329412
+Ks 0.330000 0.330000 0.330000
+map_Kd Arabic+City/dubai_desert_aerial_view_3230306.jpg
+
