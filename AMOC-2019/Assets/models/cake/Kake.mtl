@@ -1,0 +1,32 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 05.11.2017 03:06:23
+
+newmtl CL_LR_Baked1
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588235 0.588235 0.588235
+	Kd 0.588235 0.588235 0.588235
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka E:\3D Hentry\white-chocolate-cake (1)\end1\CL_LR_01DiffuseMap.jpg
+	map_Kd E:\3D Hentry\white-chocolate-cake (1)\end1\CL_LR_01DiffuseMap.jpg
+	map_bump E:\3D Hentry\white-chocolate-cake (1)\end1\CL_LR_01NormalsMap.jpg
+	bump E:\3D Hentry\white-chocolate-cake (1)\end1\CL_LR_01NormalsMap.jpg
+
+newmtl 03___Default
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588235 0.588235 0.588235
+	Kd 0.588235 0.588235 0.588235
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka E:\3D Hentry\white-chocolate-cake (1)\end1\Piatto_B1.jpg
+	map_Kd E:\3D Hentry\white-chocolate-cake (1)\end1\Piatto_B1.jpg
