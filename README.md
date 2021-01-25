@@ -17,10 +17,16 @@ ___
 
 <table style="border-spacing:15px">
   <tr>
-    <td><img src = "https://github.com/kshitijsuri90/AMOC-19/blob/master/screenshots/1.jpeg" width = "250" height = "500" /></td>
-    <td><img src = "https://github.com/kshitijsuri90/AMOC-19/blob/master/screenshots/2.jpeg" width = "250" height = "500" /></td>
-    <td><img src = "https://github.com/kshitijsuri90/AMOC-19/blob/master/screenshots/3.jpeg" width = "250" height = "500" /></td>
-    <td><img src = "https://github.com/kshitijsuri90/AMOC-19/blob/master/screenshots/4.jpeg" width = "250" height = "500" /></td>
+    <td><img src = "https://github.com/kshitijsuri90/AMOC-19/blob/master/screenshots/1.jpeg" width = "500" height = "250" /></td>
+  </tr>
+  <tr>
+    <td><img src = "https://github.com/kshitijsuri90/AMOC-19/blob/master/screenshots/2.jpeg" width = "500" height = "250" /></td>
+  </tr>
+  <tr>
+    <td><img src = "https://github.com/kshitijsuri90/AMOC-19/blob/master/screenshots/3.jpeg" width = "500" height = "250" /></td>
+  </tr>
+  <tr>
+    <td><img src = "https://github.com/kshitijsuri90/AMOC-19/blob/master/screenshots/4.jpeg" width = "500" height = "250" /></td>
   </tr>
  </table>
 
